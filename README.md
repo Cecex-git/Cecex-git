@@ -18,7 +18,7 @@ Exploring the use of AI in Business Intelligence.
 
 ## Recent Projects
 
-- **Video game sales analytics** using Power BI and Microsoft Fabric, developed with GitHub Copilot  
+- **Video game sales analytics** using Power BI and Microsoft Fabric, developed with Copilot CLI and other AI tools
   Project: [VideoGames-sales-Fabric-PBI-Test](https://github.com/Cecex-git/VideoGames-sales-Fabric-PBI-Test)
 
 ## Links
